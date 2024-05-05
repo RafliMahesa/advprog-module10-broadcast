@@ -16,4 +16,16 @@ Berdasarkan kode pada `src/bin/server.rs` dan `src/bin/client.rs` dapat terlihat
 Lalu dapat terlihat juga pada foto dibawah ini bahwa program masih berjalan dengan baik walaupun port yang digunakan sudah dirubah. <br>
 ![Coba run](image4.png) <br>
 
+## 2.3. Small changes. Add some information to client
+
+Berikut hasil setelah dilakukan perubahan pada output <br>
+![Using hostname](image5.png) <br>
+
+Berikut modifikasi yang saya lakukan: <br>
+![Perubahan 1](image6.png) <br>
+![Perubahan 2](image7.png) <br>
+![Perubahan 3](image8.png) <br>
+
+Beberapa perubahan diatas yang saya lakukan untuk memberikan broadcast *addr* yang berisi addres dari mana pesan dikirim. Lalu, saya juga menambahkan asal dari komputer Rafli untuk beberapa pesan. <br>
+
 
